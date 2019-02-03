@@ -1,0 +1,79 @@
+header {
+  position: relative;
+  background-color: rgb(44,154,183);
+}
+
+aside {
+  float: right;
+  width: 40%;
+  margin: 0em 2em 0em 2em
+}
+
+
+article.main-article {
+  width: 60%;
+  margin: 0em 2em 0em 2em
+}
+
+footer {
+  position: relative;
+}
+
+p {
+  color: rgb(57, 57, 57);
+  font-family: Arial, sans-serif;
+    font-size: .75em;
+}
+
+p.footer-p{
+  color: white;
+}
+
+nav {
+  background-color: rgb(235, 235, 235);
+}
+
+footer {
+  background-color: rgb(57, 57, 57);
+}
+
+h1 {
+  color: White;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  font-size: 3em;
+}
+
+h2 {
+  color: White;
+  font-style: oblique;
+  font-family: Arial, sans-serif;
+  font-size: 1.5em;
+}
+
+h3 {
+  color: rgb(57, 57, 57);
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+}
+
+h4 {
+  color: rgb(44,154,183);
+  font-family: Arial, sans-serif;
+}
+
+
+h4.nav-h4{
+  color: rgb(57, 57, 57);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(89, 187, 213);
+}
+
+blockquote {
+  color: rgb(89, 187, 213);
+  font-family: Arial, sans-serif;
+}
